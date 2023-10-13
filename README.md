@@ -1,12 +1,12 @@
 # Auto-retweet-and-like-comments-on-Twitter-posts
 Auto-retweet and like comments on Twitter posts until you stop 
 
-Replace Username & Password In 22 & 26th Line..
+## Replace "Username" and "Password" in the 22nd and 26th lines, as well as in the 29th line, with the post URL for which you want to retweet and like the comments.
 
 ## Note: Use accounts that do not have two-factor authentication.
 
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rlc.py or double-click on the prl.py file.
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter prl.py or double-click on the prl.py file.
 
 👉Note:-
 
