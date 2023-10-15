@@ -1,5 +1,5 @@
 # Auto-retweet-and-like-comments-on-Twitter-posts
-Auto-retweet and like comments on Twitter posts until you stop 
+Auto-retweet and like replies on Twitter posts until you stop them
 
 ## Replace "Username" and "Password" in the 22nd and 26th lines, as well as in the 29th line, with the post URL for which you want to retweet and like the comments.
 
