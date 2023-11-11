@@ -5,6 +5,7 @@ Auto-retweet and like replies on Twitter posts until you stop them
 
 ## Note: Use accounts that do not have two-factor authentication.
 
+## if you want with multiple Accs Then Copy From 16th line to End And Paste Again And Change Username & Pass
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter prl.py or double-click on the prl.py file.
 
